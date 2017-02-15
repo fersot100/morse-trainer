@@ -1,5 +1,3 @@
-{
-  "morseTable":
   [
     {"letter": "A", "morse": "* -"},
     {"letter": "B", "morse": "- * * *"},
@@ -38,4 +36,3 @@
     {"number": "9", "morse": "- - - - *"},
     {"number": "0", "morse": "- - - - -"}
   ]
-}
